@@ -4,7 +4,7 @@
   </p>
 	<h1 align="center"><b></b></h1>
 	<p align="center">
-    Self hosted infrastructure with modern feature    <br />
-    <a href="https://cap.so"><strong>latent.host »</strong></a>
+    Private infrastructure with modern feature <br />
+    <a href="https://latent.host"><strong>latent.host »</strong></a>
   </p>
 </p>
